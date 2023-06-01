@@ -1,0 +1,6 @@
+#!/bin/bash
+while :
+do
+        /home/docker/print.sh
+        sleep 5
+done
